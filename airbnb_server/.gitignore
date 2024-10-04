@@ -42,3 +42,4 @@ yarn.lock
 *.bak
 *.swp
 *.swo
+.vercel
